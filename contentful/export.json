@@ -105,18 +105,8 @@
           "omitted": false
         },
         {
-          "id": "facebook",
-          "name": "Facebook",
-          "type": "Symbol",
-          "localized": false,
-          "required": false,
-          "validations": [],
-          "disabled": false,
-          "omitted": false
-        },
-        {
-          "id": "twitter",
-          "name": "Twitter",
+          "id": "linkedin",
+          "name": "LinkedIn",
           "type": "Symbol",
           "localized": false,
           "required": false,
